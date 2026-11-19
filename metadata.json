@@ -1,0 +1,6 @@
+{
+  "name": "Stack House — Smash Burgers & Crispy Chicken",
+  "description": "Order flame-seared smash burgers, crispy buttermilk chicken, loaded fries, and hand-spun shakes for fast pickup or local delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
